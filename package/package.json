@@ -1,9 +1,10 @@
 {
   "name": "tmp-context-issue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "author": "Matias Meno <m@tias.me>",
   "module": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "github:enyo/context-issue",
   "files": [
     "dist"
