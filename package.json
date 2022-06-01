@@ -1,0 +1,17 @@
+{
+  "name": "tmp-context-issue",
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Matias Meno <m@tias.me>",
+  "module": "dist/index.js",
+  "repository": "github:enyo/context-issue",
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "svelte": "3.x"
+  },
+  "devDependencies": {
+    "svelte": "3.x"
+  }
+}
