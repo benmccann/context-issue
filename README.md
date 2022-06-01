@@ -18,5 +18,5 @@ function.
 
 ## Fix
 
-Change the input in `src/routes/index.svelte` to a relative import and it works
+Change the import in `src/routes/index.svelte` to a relative import and it works
 again.
