@@ -3,8 +3,8 @@
 See the issue:
 
 ```bash
-git clone https://github.com/enyo/context-issue-repo.git
-cd context-issue-repo/svelte-kit-app
+git clone https://github.com/enyo/context-issue.git
+cd context-issue/svelte-kit-app
 npm install
 npm run dev
 ```
