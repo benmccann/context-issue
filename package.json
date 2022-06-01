@@ -1,6 +1,6 @@
 {
   "name": "tmp-context-issue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "author": "Matias Meno <m@tias.me>",
   "module": "dist/index.js",
