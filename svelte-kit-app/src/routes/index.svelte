@@ -1,6 +1,9 @@
 <script>
 	import { testSetContext } from 'tmp-context-issue';
 
+	// It works with a local dependency
+	// import { testSetContext } from '../../../package/dist/index';
+
 	testSetContext();
 </script>
 
