@@ -1,3 +1,6 @@
-import { setContext } from 'svelte'
+import { setContext } from 'svelte';
 
-export const testSetContext = () => setContext('test', 'value')
+const testSetContext = () => setContext('test', 'value');
+
+export { testSetContext };
+//# sourceMappingURL=index.js.map

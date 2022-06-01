@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "module": "es2020",
+    "lib": ["es2020", "DOM"],
+    "target": "es2020",
+    "importsNotUsedAsValues": "error",
+    "preserveValueImports": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noImplicitAny": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "declaration": false
+  },
+  "rootDirs": ["."],
+  "include": [
+    "src/**/*.ts",
+    "test/**/*.ts",
+    "example/**/*.ts",
+    "example/**/*.svelte"
+  ],
+  "exclude": ["./node_modules"]
+}

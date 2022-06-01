@@ -8,10 +8,16 @@
   "files": [
     "dist"
   ],
+  "scripts": {
+    "build": "rollup -c"
+  },
   "peerDependencies": {
     "svelte": "3.x"
   },
   "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.2",
+    "rollup": "^2.75.4",
+    "rollup-plugin-dts": "^4.2.2",
     "svelte": "3.x"
   }
 }
